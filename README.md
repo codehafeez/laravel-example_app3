@@ -15,8 +15,7 @@ cmd => php artisan make:component Alert
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-example_app2/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/laravel-example_app2/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-example_app3/main/Screenshots/Output-01.png)
 
 
 ## 🔗 www.codehafeez.com
